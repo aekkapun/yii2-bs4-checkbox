@@ -1,5 +1,5 @@
 <?php
-namespace bookin\aws\checkbox;
+namespace aekkapun\aws\checkbox;
 
 use yii\helpers\Html;
 use yii\widgets\InputWidget;
