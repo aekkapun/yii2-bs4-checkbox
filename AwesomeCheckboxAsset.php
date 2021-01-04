@@ -1,5 +1,5 @@
 <?php
-namespace bookin\aws\checkbox;
+namespace aekkapun\aws\checkbox;
 
 use yii\web\AssetBundle;
 
@@ -12,6 +12,6 @@ class AwesomeCheckboxAsset extends AssetBundle
     ];
 
     public $depends = [
-        'yii\bootstrap\BootstrapAsset',
+        'yii\bootstrap4\BootstrapAsset',
     ];
 }
