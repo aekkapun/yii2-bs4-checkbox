@@ -1,5 +1,5 @@
 {
-    "name": "aekkapun/yii2-awesome-bootstrap4-checkbox",
+    "name": "aekkapun/yii2-bs4-checkbox",
     "description": "Yii2 widget for awesome-bootstrap4-checkbox",
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
