@@ -12,8 +12,8 @@
     "require": {
         "php": ">=5.4.0",
         "yiisoft/yii2": "*",
-        "bower-asset/awesome-bootstrap-checkbox": "0.3.*"
-        "FortAwesome/Font-Awesome": "*",
+        "bower-asset/awesome-bootstrap-checkbox": "0.3.*",
+        "rmrevin/yii2-fontawesome": "~3.5",
         "yiisoft/yii2-bootstrap": "*"
     },
     "autoload": {
