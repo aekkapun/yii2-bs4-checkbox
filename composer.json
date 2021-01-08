@@ -13,7 +13,7 @@
         "php": ">=5.4.0",
         "yiisoft/yii2": "*",
         "bower-asset/awesome-bootstrap-checkbox": "0.3.*",
-        "rmrevin/yii2-fontawesome": "~3.5",
+        "FortAwesome/Font-Awesome": "*",
         "yiisoft/yii2-bootstrap": "*"
     },
     "autoload": {
